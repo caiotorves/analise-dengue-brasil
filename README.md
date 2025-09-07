@@ -43,13 +43,6 @@ O projeto foi estruturado seguindo as etapas do processo **KDD (Knowledge Discov
 
 ## 🚀 Como Executar o Projeto
 
-1.  Clone este repositório.
-2.  Certifique-se de que os arquivos de dados brutos (da pasta `/dados`) estejam acessíveis para o notebook.
-3.  Abra o arquivo `.ipynb` em um ambiente como Google Colab ou Jupyter Notebook.
-4.  Execute as células em sequência.
-
-## 🚀 Como Executar o Projeto
-
 Este notebook foi desenvolvido no ambiente Google Colab. Para reproduzir a análise completamente, siga os passos abaixo:
 
 1.  **Clone o Repositório:** Através do terminal ou prompt de comando, ou, faça o download do repositório (DONWLOAD ZIP).
