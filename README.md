@@ -50,7 +50,7 @@ Este notebook foi desenvolvido no ambiente Google Colab. Para reproduzir a anál
 2.  **Upload dos Arquivos:** Faça o upload do notebook (`.ipynb`) e da pasta de dados (`/dados`) para o seu ambiente de preferência (Google Colab ou Jupyter).
 
 3.  **Configuração do Google Cloud (Obrigatório):**
-    * A análise da **Taxa de Incidência por Município** requer uma consulta ao Google BigQuery para obter dados de população do Censo 2022. Para executar esta parte, é necessário:
+    A análise da **Taxa de Incidência por Município** requer uma consulta ao Google BigQuery para obter dados de população do Censo 2022. Para executar esta parte, é necessário:
         * Possuir uma conta Google Cloud.
         * Criar um projeto no Google Cloud Platform.
         * Ativar a API do BigQuery para este projeto.
